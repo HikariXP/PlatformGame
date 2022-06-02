@@ -1,0 +1,33 @@
+{
+    "name": "Standard InputAcion",
+    "maps": [
+        {
+            "name": "PlayerControl",
+            "id": "d018edc7-e195-43cf-bc55-f0df0ee7f46b",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "e54aaf4e-5abf-446f-80f8-410ad0376677",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6073175c-69c9-4f57-9320-5211d714ba61",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
